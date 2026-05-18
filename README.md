@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 18 years old, self-taught developer from India 🇮🇳
+- 🎓 18 years old, pursuing BCA
 - 📈 Passionate about **investing** and **coding**
 - 🔨 Currently building **Investosophy** — an investment learning app for Indian investors
-- 🌱 Learning: `React` `Python` `FastAPI` `Flutter`
+- 🌱 Learning: `React` `Python` `FastAPI` `Flutter` `C++` `HTML` `JavaScript` `CSS`
 - 💡 Believer in **building in public**
 
 ---
@@ -37,7 +37,7 @@
 
 ## 🚀 My Projects
 
-### 📈 [Investosophy](https://github.com/yashpreet/investosophy)
+### 📈 [Investosophy](https://github.com/yashpreet1710/investosophy)
 > Investment learning & portfolio tracker for Indian investors
 
 - 🇮🇳 Real-time NSE/BSE stock data
@@ -53,9 +53,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashpreet&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashpreet1710&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D084&icon_color=00D084)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D084)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet1710&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D084)
 
 </div>
 
@@ -73,14 +73,14 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashpreet)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashpreet1710)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashpreet&color=00D084&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yashpreet1710&color=00D084&style=flat-square" alt="Profile Views" />
   
   **⭐ Star my repos if you find them useful!**
 </div>
