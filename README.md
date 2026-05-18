@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 18 years old, pursuing BCA
+- 🎓 18 years old, self-taught developer from India 🇮🇳
 - 📈 Passionate about **investing** and **coding**
 - 🔨 Currently building **Investosophy** — an investment learning app for Indian investors
-- 🌱 Learning: `React` `Python` `FastAPI` `Flutter` `C++` `HTML` `JavaScript` `CSS`
+- 🌱 Learning: `React` `Python` `FastAPI` `Flutter`
 - 💡 Believer in **building in public**
 
 ---
