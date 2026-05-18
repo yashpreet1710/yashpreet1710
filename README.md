@@ -14,7 +14,7 @@
 - 🎓 18 years old, self-taught developer from India 🇮🇳
 - 📈 Passionate about **investing** and **coding**
 - 🔨 Currently building **Investosophy** — an investment learning app for Indian investors
-- 🌱 Learning: `React` `Python` `FastAPI` `Flutter`
+- 🌱 Learning: `React` `Python` `FastAPI` `Flutter` `C++` `HTML` `JS` `CSS`
 - 💡 Believer in **building in public**
 
 ---
